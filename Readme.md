@@ -1,41 +1,17 @@
-<h1>Chess Game</h1>
+# Chess Game Web App
 
-<p>A Chess Game written in HTML, CSS and JAVASCRIPT .</p>
+A web-based chess game developed with modern web technologies. This project allows users to play chess against another player on the same device. The application features a fully interactive chessboard with drag-and-drop functionality for pieces, move validation, and a user-friendly interface.
 
-### Use of the Project:
+## Features
 
-<p>This chess game is just for entertainment purpose . </p>
+- **Interactive Chessboard:** Play chess directly in your browser with a dynamic and responsive board.
+- **Drag-and-Drop:** Move chess pieces using a drag-and-drop interface for an intuitive gameplay experience.
+- **Move Validation:** Ensures all moves follow the rules of chess, preventing illegal moves.
+- **Game Reset:** Option to start a new game or reset the current game.
+- **Responsive Design:** Optimized for various screen sizes and devices.
 
-<h3>Used Technologies</h3>
-<ul>
-    <li>HTML5</li>
-    <li>CSS3</li>
-    <li>JavaScript</li>
-</ul>
+## Used Technologies
 
-#### Steps to Use:
-
----
-
-- Download or clone the repository
-
-```
-git clone https://github.com/Ayushparikh-code/Web-dev-mini-projects.git
-```
-
-- Go to the directory
-- Run the index.html file
-- Start Playing!!!
-
-
-<h3> Screenshot </h3>
-
-<img src="https://user-images.githubusercontent.com/66966120/125582506-237c66d8-8ac8-4bd1-b8f8-77d7bc2978ef.png" alt="Screenshot (22)" style="max-width:100%;">
-
-
-
-<h3> Demo </h3>
-
-<a href="https://sonamgupta136.github.io/Chess-Game/"> Demo </a>
-
-<br>
+- **HTML5**
+- **CSS3**
+- **JavaScript**
